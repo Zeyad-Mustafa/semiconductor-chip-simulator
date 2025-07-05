@@ -79,7 +79,7 @@ class SemiconductorChip:
     def status(self):
         print("\n--- Chip Manufacturing Status ---")
         for step, done in self.state.items():
-            print(f"{step}: {'✅' if done else '❌'}")
+            print(f"{step}: {'✅ ' if done else '❌'}")
         print("----------------------------------")
 
     def visualize(self):
