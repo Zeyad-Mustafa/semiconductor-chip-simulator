@@ -8,7 +8,7 @@ This Python project simulates the fabrication steps of an integrated circuit chi
 
 This Python project simulates the fabrication steps of an integrated circuit chip...
 
-# 🧪 Semiconductor Chip Manufacturing Process Simulator
+#  Semiconductor Chip Manufacturing Process Simulator
 
 This Python project simulates the fabrication steps of an integrated circuit chip...
 
