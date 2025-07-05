@@ -1,3 +1,5 @@
+
+
 #  Semiconductor Chip Manufacturing Process Simulator
 
 This Python project simulates the fabrication steps of an integrated circuit chip, including oxidation, photolithography, etching, doping, and more. It is intended as an educational tool to better understand the end-to-end manufacturing process of semiconductor devices.
@@ -6,7 +8,12 @@ This Python project simulates the fabrication steps of an integrated circuit chi
 
 This Python project simulates the fabrication steps of an integrated circuit chip...
 
-![Simulation Diagram][Semiconductor_Chip_Manufacturing_Process.png]
+# 🧪 Semiconductor Chip Manufacturing Process Simulator
+
+This Python project simulates the fabrication steps of an integrated circuit chip...
+
+![Simulation Diagram](assets/Semiconductor_Chip_Manufacturing_Process.png)
+
 
 ##  Features
 
