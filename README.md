@@ -25,7 +25,7 @@ This Python project simulates the fabrication steps of an integrated circuit chi
 ##  Requirements
 
 Install dependencies:
-
+  
 ```bash
 pip install -r requirements.txt
 
